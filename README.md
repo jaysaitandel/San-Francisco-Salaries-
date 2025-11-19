@@ -52,7 +52,7 @@ data = pd.read_csv("Salaries.csv")
 
 ```python
 ["Id", "Notes", "Agency", "Status"]
-'''
+```
 
 
 - Converted columns to numeric (ex: BasePay)
