@@ -3,13 +3,13 @@
 This project performs Exploratory Data Analysis (EDA) on the Salaries.csv dataset.
 The goal is to understand employee salary distribution, clean the dataset, extract insights, and perform analysis such as identifying top earners, common job titles, and missing data patterns.
 
-# 🧰 Tools & Technologies Used
+## 🧰 Tools & Technologies Used
 - Python
 - Pandas
 - NumPy
 - Jupyter Notebook
 
-# 📘 Dataset Description
+## 📘 Dataset Description
 
 The dataset contains the following important columns:
 - EmployeeName
@@ -24,7 +24,7 @@ The dataset contains the following important columns:
 - Status
 
 
-# 🔍 What This Project Does
+## 🔍 What This Project Does
 **1. Import Libraries**
 
 Loaded Pandas and other libraries needed for analysis.
@@ -77,7 +77,7 @@ data = pd.read_csv("Salaries.csv")
 
 - Handling inconsistent data types
 
-# 📈 Key Insights You Can Extract
+## 📈 Key Insights You Can Extract
 
 - Who earns the highest salary in the dataset
 
