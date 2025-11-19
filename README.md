@@ -30,7 +30,9 @@ The dataset contains the following important columns:
 Loaded Pandas and other libraries needed for analysis.
 
  **2. Load the Dataset**
+```python
 data = pd.read_csv("Salaries.csv")
+```
 
 **3. Explore Data**
 
@@ -48,7 +50,9 @@ data = pd.read_csv("Salaries.csv")
 
 - Dropped unnecessary columns:
 
+```python
 ["Id", "Notes", "Agency", "Status"]
+'''
 
 
 - Converted columns to numeric (ex: BasePay)
